@@ -9,6 +9,12 @@
  * ---------------------------------------------------------------
  */
 
+export type NameserviceMsgBuyNameResponse = object;
+
+export type NameserviceMsgDeleteNameResponse = object;
+
+export type NameserviceMsgSetNameResponse = object;
+
 /**
  * Params defines the parameters for the module.
  */
