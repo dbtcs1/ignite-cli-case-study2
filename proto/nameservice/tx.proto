@@ -2,6 +2,7 @@ syntax = "proto3";
 package username.nameservice.nameservice;
 
 // this line is used by starport scaffolding # proto/tx/import
+//done tutorial for nameservice
 
 option go_package = "github.com/username/nameservice/x/nameservice/types";
 
